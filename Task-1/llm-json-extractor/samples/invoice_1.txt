@@ -1,0 +1,15 @@
+NIMBUS CLOUD SERVICES
+Invoice No: INV-2026-042
+Issued: September 15, 2026      Payment due: October 15, 2026
+
+Billed to: Tanvir Ahmed, Mirpur, Dhaka
+
+Description                      Qty    Rate     Amount
+Cloud hosting (monthly)           1    $200.00   $200.00
+Support hours                     5     $40.00   $200.00
+
+Subtotal:  $400.00
+Tax (10%):  $40.00
+TOTAL DUE: $440.00 USD
+
+Thank you for your business!

@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2026-042",
+  "vendor_name": "NIMBUS CLOUD SERVICES",
+  "customer_name": "Tanvir Ahmed, Mirpur, Dhaka",
+  "issue_date": "2026-09-15",
+  "due_date": "2026-10-15",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Cloud hosting (monthly)",
+      "quantity": 1.0,
+      "unit_price": 200.0,
+      "total": 200.0
+    },
+    {
+      "description": "Support hours",
+      "quantity": 5.0,
+      "unit_price": 40.0,
+      "total": 200.0
+    }
+  ],
+  "subtotal": 400.0,
+  "tax": 40.0,
+  "total": 440.0
+}

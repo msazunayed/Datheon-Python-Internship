@@ -1,0 +1,15 @@
+NADIA RAHMAN
+nadia.rahman@example.com | +880 1711 000000 | Dhaka, Bangladesh
+
+Data engineer with 5 years of experience building reliable pipelines.
+
+SKILLS: Python, SQL, Airflow, AWS
+
+EXPERIENCE
+Senior Data Engineer, DataWorks (Feb 2023 - present)
+ - Cut pipeline runtime by 40%
+Data Engineer, FinTrack (Jun 2021 - Jan 2023)
+ - Built ETL pipelines
+
+EDUCATION
+BSc Computer Science, University of Dhaka, 2021

@@ -1,0 +1,40 @@
+{
+  "full_name": "NADIA RAHMAN",
+  "email": "nadia.rahman@example.com",
+  "phone": "+880 1711 000000",
+  "location": "Dhaka, Bangladesh",
+  "summary": "Data engineer with 5 years of experience building reliable pipelines.",
+  "skills": [
+    "Python",
+    "SQL",
+    "Airflow",
+    "AWS"
+  ],
+  "experience": [
+    {
+      "company": "DataWorks",
+      "title": "Senior Data Engineer",
+      "start_date": "2023-02",
+      "end_date": null,
+      "highlights": [
+        "Cut pipeline runtime by 40%"
+      ]
+    },
+    {
+      "company": "FinTrack",
+      "title": "Data Engineer",
+      "start_date": "2021-06",
+      "end_date": "2023-01",
+      "highlights": [
+        "Built ETL pipelines"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Dhaka",
+      "degree": "BSc Computer Science",
+      "year": 2021
+    }
+  ]
+}
